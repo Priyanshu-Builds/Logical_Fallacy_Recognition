@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask UI</title>
+</head>
+<body>
+    <h1>Choose an Action</h1>
+    
+    <!-- Form to record audio -->
+    <form method="POST">
+        <button type="submit" name="record_audio">Record Audio</button>
+    </form>
+    
+    <br>
+    
+    <!-- Form to process YouTube link -->
+    <form method="POST">
+        <label for="youtube_url">Enter YouTube URL:</label>
+        <input type="text" id="youtube_url" name="youtube_url" required>
+        <button type="submit" name="youtube_link">Process YouTube Link</button>
+    </form>
+</body>
+</html>

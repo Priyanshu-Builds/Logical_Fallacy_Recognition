@@ -1,0 +1,8 @@
+speechrecognition
+yt-dlp
+prompt
+pydub
+pyaudio
+google-generativeai
+flask
+sounddevice
