@@ -24,7 +24,7 @@ Currently, the system includes **speech-to-text recognition**, which captures au
 ### **1. Clone the Repository**  
 
 ```bash
-git clone https://github.com/Priyanshu-Builds/logical_fallacy_recognition.git
+git clone https://github.com/Priyanshu-Builds/Logical_Fallacy_Recognition.git
 cd logical_fallacy_recognition
 ```  
 
